@@ -1,0 +1,19 @@
+PODS:
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - TinyConstraints (3.1.0)
+
+DEPENDENCIES:
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - TinyConstraints
+
+SPEC CHECKSUMS:
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  TinyConstraints: 4721a4b303c799328867078ade6560e152df54d1
+
+PODFILE CHECKSUM: e519e7e53cecee70c22451f711c56fb3187fc3ec
+
+COCOAPODS: 1.4.0
